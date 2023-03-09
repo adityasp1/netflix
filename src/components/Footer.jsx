@@ -1,5 +1,5 @@
 import React from 'react'
-import {TbBrandTwitter, TbBrandGithub, TbBrandLinkedin } from "react-icons/tb";
+import { TbBrandGithub, TbBrandLinkedin } from "react-icons/tb";
 
 const Footer = () => {
   return (

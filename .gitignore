@@ -23,6 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 
-config.js
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 .env
-vite.config.js

@@ -29,7 +29,7 @@ const Navbar = () => {
         </button>
         </Link>
       
-        <button onClick={handleLogout} className= 'text-white  px-3 py-2 rounded-md pr-4 bg-gray-800 hover:bg-gray-900'>LogOut from here</button>
+        <button onClick={handleLogout} className= 'text-white  px-3 py-2 rounded-md pr-4 bg-gray-800 hover:bg-gray-900'>LogOut</button>
         
       {/* <img className='w-[32px] sm:w-[40px] md:w-[48px] lg:w-[56px] inline-block cursor-pointer relative p-2' src="http://zoeice.com/assets/img/uploads/profile.png"
           alt="Avatar" /> */}

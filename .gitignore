@@ -23,9 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-# misc
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+# secret key
 .env
